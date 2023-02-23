@@ -55,7 +55,7 @@ main{
 @keyframes descricao {
   0% { transform: translate(0,  0px); }
   50%  { transform: translate(0, 10px); }
-  100%   { transform: translate(0, 0px); }   }
+  100%   { transform: translate(0, 0px); }  }
 
 
 h1{
@@ -147,7 +147,7 @@ a{
 }
 
 .colordiv{
-  background-color: #fbf7e9;
+  background-color: #ded4a0;
   justify-content: center;
  
   height: 768px;
@@ -160,25 +160,32 @@ a{
   justify-content: center;
   align-items: center;
   margin-top: 10vh;
-  margin-left: 10vh;
+  margin-left: 5vh;
 }
-.card1{
+.card1 {
  
   justify-content: center;
   align-items: center;
-  margin-right: 10vh;
+  margin-right: 5vh;
   border-radius: 10px;
-  background-color: #ecd997;
+  background-color: rgb(234, 234, 234);
 }
 
+
+
 .card2{
-  border: 2px solid rgb(0, 0, 0);
+  
+  background-color: rgb(234, 234, 234);
   justify-content: center;
   align-items: center;
-  margin-right: 9vh;
+  margin-right: 5vh;
+  border-radius: 10px
 }
 .card3{
-  border: 2px solid rgb(0, 0, 0);
+  
+  background-color: rgb(234, 234, 234);
   justify-content: center;
   align-items: center;
+  border-radius: 10px;
+  margin-right: 5vh;
 }
