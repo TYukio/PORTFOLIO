@@ -19,6 +19,7 @@ a{
 
 body{
   background-color: #005221;
+  
 
 }
 #circulo{
@@ -27,8 +28,8 @@ body{
   width: 920px;
   height: 920px;
   border-radius: 100%;
-  margin-top: -5vh;
-  margin-left: 550px;
+  margin-top: -13vh;
+  margin-left: 500px;
 }
 img{
   width:100%;
@@ -102,13 +103,14 @@ a{
 	align-items: center;
   justify-content: center;
   margin-left: 165vh;
-  margin-top: -18vh;
+  margin-top: -20vh;
   animation-name: descricao;
   animation-duration: 5s;
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
   text-transform: uppercase;
   padding: 0px;
+  
   
   
 }
@@ -147,10 +149,10 @@ a{
 }
 
 .colordiv{
-  background-color: #ded4a0;
+  background-color: #38361a;
   justify-content: center;
  
-  height: 768px;
+  height: 700px;
   
 }
 
@@ -169,8 +171,8 @@ a{
   margin-right: 5vh;
   border-radius: 10px;
   background-color: rgb(234, 234, 234);
+  width: 300px;
 }
-
 
 
 .card2{
@@ -179,7 +181,8 @@ a{
   justify-content: center;
   align-items: center;
   margin-right: 5vh;
-  border-radius: 10px
+  border-radius: 10px;
+  width:300px;
 }
 .card3{
   
@@ -188,4 +191,5 @@ a{
   align-items: center;
   border-radius: 10px;
   margin-right: 5vh;
+  width: 300px;
 }
